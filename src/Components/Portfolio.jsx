@@ -42,8 +42,7 @@ const projectList = [
   },
   {
     title: "My Portfolio Wesbsite ",
-    description:
-      "This is my Original portfolio website using Next js",
+    description:"This is my Original portfolio website using Next js",
     url: "https://www.souvikrajsingh.me/",
   },
 ];
